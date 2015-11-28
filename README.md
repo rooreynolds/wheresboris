@@ -1,6 +1,6 @@
 # Where's Boris?
 
-A lightweight web app that predicts the answer to the important question: where is London mayor Boris Johnson?
+A lightweight single page application that predicts the answer to an important question: where is the Mayor of London Boris Johnson?
 
 ## Features
 
@@ -18,11 +18,11 @@ A lightweight web app that predicts the answer to the important question: where 
 
 ## Prerequisites
 
-- Where's Boris has one dependency: a web server. Here's a handy [comparison table of web server software](https://en.wikipedia.org/wiki/Comparison_of_web_server_software) to help you decide which one you'd like to use.
+Where's Boris has only one dependency: a web server. Here's a handy [comparison table of web server software](https://en.wikipedia.org/wiki/Comparison_of_web_server_software) to help you decide which one you'd like to use.
 
 ## Usage
 
-- Point your browser at eg `localhost/wheresboris/index.html` (you can copy and paste that URL but depending on the exact location you installed the source into your specific location might be different)
+Point your browser at eg `localhost/wheresboris/index.html` (you can copy and paste that URL but depending on the exact location you installed the source into your specific location might be different)
 
 ## Advanced options
 
