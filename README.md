@@ -32,6 +32,10 @@ There are no advanced options.
 
 ```curl http://localhost/wheresboris/```
 
+## Demo
+
+For convenience, you can see a working version of Where's Boris at [rooreynolds.github.io/wheresboris/](http://rooreynolds.github.io/wheresboris/)
+
 ## License
 
 The MIT License (MIT)
